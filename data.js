@@ -9,6 +9,14 @@
 
 module.exports = [
   {
+    name: "GUN",
+    github: "amark/gun",
+    tags: ["database", "graph", "document-oriented", "key-value", "tabular", "distributed", "peer-to-peer", "decentralized", "real-time", "offline-first", "cache-storage", "data store"],
+    description: "GUN is a highly modular, open-source, real-time, offline-first, distributed cache storage engine.",
+    url: "https://github.com/amark/gun/",
+    source: "https://raw.githubusercontent.com/amark/gun/master/gun.js"
+  },
+  {
     name: "blobcounter.js",
     github: "amirhkkh/blobcounter.js",
     tags: ["blob", "image", "canvas", "processing", "2D", "blobcounter"],
